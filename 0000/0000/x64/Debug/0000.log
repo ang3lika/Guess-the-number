@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (0000.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  0000.cpp
+c:\users\dell inspiron\source\repos\0000\0000\0000.cpp(11): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  0000.vcxproj -> C:\Users\DELL INSPIRON\source\repos\0000\x64\Debug\Guess the number.exe
